@@ -1,11 +1,6 @@
 
 
-.header_logo img {
-    width: 60px;
-    height: 60px;
-    border-radius: 100%;
-    border: 5px solid #3b3d4e93;
-}
+
 
 * { 
     margin: 0; 
@@ -39,6 +34,7 @@ h1.name {
     font-size: 30px;
     text-align: center;
     color: white;
+    padding-top: 3%;
     font-weight: lighter;
 }
 
